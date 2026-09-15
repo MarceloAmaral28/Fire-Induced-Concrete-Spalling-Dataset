@@ -30,10 +30,6 @@ The original dataset contains 50 missing values across 22 records. In the proces
 
 Apart from these imputations and the addition of `idx_original`, the values and row order were preserved.
 
-## Code availability
-
-An article associated with this dataset is currently being prepared for submission. Citation details will be added upon publication.
-
 ## Related article
 
 An article associated with this dataset is currently being prepared for submission. Citation details will be added upon publication.
