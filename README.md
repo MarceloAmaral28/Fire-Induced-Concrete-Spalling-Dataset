@@ -32,8 +32,8 @@ Apart from these imputations and the addition of `idx_original`, the values and 
 
 ## Code availability
 
-The analysis and modeling code is not included in the current release. It is available upon request from the corresponding author.
+An article associated with this dataset is currently being prepared for submission. Citation details will be added upon publication.
 
-## Citation
+## Related article
 
-Users should cite the accompanying article and the original sources listed in `reference_mapping.csv`.
+An article associated with this dataset is currently being prepared for submission. Citation details will be added upon publication.
